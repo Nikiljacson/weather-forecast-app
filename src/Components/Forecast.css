@@ -1,0 +1,22 @@
+
+.forecast{
+    width: 80vw;
+    background-color: rgba(255, 255, 255, 0.407);
+    color: black;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.forecast_days{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid black;
+    height: 10vh;
+}
+.forecast_weatherImg,.forecast_weatherText,.forecast_days,.forecast_weather,.forecast_dates,.tempe_range,.rain_percent{
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+}
+h4{
+    margin: 1vh;
+}

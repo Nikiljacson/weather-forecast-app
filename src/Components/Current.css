@@ -1,0 +1,20 @@
+.current{
+    background-color: rgba(255, 255, 255, 0.407);
+    color: black;
+    width: 80vw;
+    margin-top: 5vh;
+}
+.currentBody{
+    display: flex;
+    margin: 1vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+span{
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+}
+h4{
+    margin: 1vh;
+}
